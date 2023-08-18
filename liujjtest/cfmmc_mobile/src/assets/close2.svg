@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/general/close2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="12 11.4146341 0.585365854 0 0 0.585365854 11.4146341 12 0 23.4146341 0.585365854 24 12 12.5853659 23.4146341 24 24 23.4146341 12.5853659 12 24 0.585365854 23.4146341 0"></polygon>
+    </defs>
+    <g id="icon/general/close2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/close">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#B8B8B8" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

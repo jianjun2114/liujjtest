@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/General/Bank</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icon/General/Bank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-4" stroke="#49A5FF" stroke-width="2" fill-rule="nonzero" x="1" y="5" width="38" height="30" rx="6"></rect>
+        <path d="M12.3913043,29 L5,29 C4.44771525,29 4,28.5522847 4,28 L4,28 C4,27.4477153 4.44771525,27 5,27 L12.3913043,27 C12.9435891,27 13.3913043,27.4477153 13.3913043,28 L13.3913043,28 C13.3913043,28.5522847 12.9435891,29 12.3913043,29 Z" id="Shape" fill="#49A5FF" fill-rule="nonzero"></path>
+        <path d="M20.0434783,23 L5,23 C4.44771525,23 4,22.5522847 4,22 L4,22 C4,21.4477153 4.44771525,21 5,21 L20.0434783,21 C20.595763,21 21.0434783,21.4477153 21.0434783,22 L21.0434783,22 C21.0434783,22.5522847 20.595763,23 20.0434783,23 Z" id="Shape" fill="#49A5FF" fill-rule="nonzero"></path>
+        <rect id="Rectangle-6" fill="#49A5FF" fill-rule="nonzero" x="0" y="11" width="40" height="4"></rect>
+        <path d="M28.0408072,31.1608392 L33.2178015,31.1608392 C33.3165658,31.1608392 33.6519809,30.8623741 33.782626,30.4883913 L35.3460805,26.0128668 C35.3475971,26.0085254 35.3490689,26.0042362 35.3504972,26 L30.1735029,26 C30.0747385,26 29.7393234,26.2984651 29.6086784,26.6724479 L28.0452239,31.1479724 C28.0437073,31.1523138 28.0422355,31.156603 28.0408072,31.1608392 Z M35.396903,25.7887027 C35.3970084,25.7860362 35.3969933,25.784616 35.3969433,25.7844984 C35.3978047,25.7865247 35.3986965,25.7885461 35.3996179,25.7905622 Z" id="Rectangle-7" stroke="#49A5FF" stroke-width="2" fill-rule="nonzero"></path>
+    </g>
+</svg>
